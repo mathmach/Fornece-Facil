@@ -6,6 +6,6 @@ Integrantes:
 			- Marcos Henrique Azevedo Pinto Junior          1201500019
 			- Matheus Machado Guerzoni Duarte				1201500015
 			
-Projeto "SEM NOME"
+Projeto "Fornece Fácil"
 
 Repositório destinado ao envio da documentação e atualizações do projeto.
