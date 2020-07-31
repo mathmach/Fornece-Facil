@@ -1,0 +1,31 @@
+{
+  "name": "pg-parallaxslider",
+  "version": "1.0.2",
+  "homepage": "http://www.pigno.se/barn/PIGNOSE-ParallaxSlider",
+  "authors": [
+    "PIGNOSE"
+  ],
+  "description": "jQuery slider supporting parallax effects.",
+  "main": "index.html",
+  "keywords": [
+    "pignose",
+    "parallaxslider",
+    "prallax",
+    "jQuery",
+    "plugin",
+    "slider",
+    "plugin"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": ">= 1.11",
+    "jquery-ui": "~1.10.3"
+   }
+}
